@@ -20,7 +20,7 @@ Abra o terminal e inicie como superusuário:
 sudo su
 ```bash
 
-### 2. **Inicie o Social Engineering Toolkit (SET)**
+### 2. Inicie o Social Engineering Toolkit (SET)
 Execute o comando abaixo para iniciar o SET Toolkit:
 ```bash
 setoolkit

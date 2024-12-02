@@ -79,7 +79,7 @@ Garanta que todos os envolvidos no treinamento entendam o propósito educacional
 Documente os aprendizados para avaliação posterior.
 
 
-## **Resultados Esperados**
+## **Resultados Esperados**📌
 
 Aumento da Conscientização: Ensinar como identificar tentativas de phishing.
 Fortalecimento de Defesas: Demonstrar vulnerabilidades em um ambiente seguro.

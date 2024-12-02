@@ -18,42 +18,48 @@
 Abra o terminal e inicie como superusuário:
 ```bash
 sudo su
-
+```bash
 
 ### 2. **Inicie o Social Engineering Toolkit (SET)**
 Execute o comando abaixo para iniciar o SET Toolkit:
 ```bash
 setoolkit
+```bash
 
 ### 3. **Selecione o Tipo de Ataque**
 No menu principal, escolha a opção de ataques de engenharia social:
 ```bash
 1) Social-Engineering Attacks
+```bash
 
 ### 4. **Escolha o Vetor de Ataque**
 Selecione o vetor de ataque baseado em sites:
 ```bash
 2) Website Attack Vectors
+```bash
 
 ### 5. **Escolha o Método de Ataque**
 Opte pelo método de captura de credenciais:
 ```bash
 3) Credential Harvester Attack Method
+```bash
 
 ### 6. **Clone o Site Alvo**
 Escolha a opção de clonar um site existente:
 ```bash
 2) Site Cloner
+```bash
 
 Quando solicitado, insira o URL do site que será clonado para a simulação:
 ```bash
 http://www.facebook.com
+```bash
 
 ### 7. **Obtenha o Endereço da Máquina**
 Identifique o IP do servidor local utilizando o comando:
 ```bash
 ifconfig
-
+```bash
 
 ## Considerações Importantes
 

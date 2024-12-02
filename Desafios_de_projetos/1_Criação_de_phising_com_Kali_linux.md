@@ -4,7 +4,7 @@
 
 ---
 
-## Requisitos
+## Requisitos ⚒
 
 - **Sistema Operacional**: Kali Linux
 - **Ferramentas**: Social Engineering Toolkit (SET)
@@ -12,7 +12,7 @@
 
 ---
 
-## Passo a Passo
+## Passo a Passo 📑
 
 ### 1. **Obtenha Permissões de Administrador**
 Abra o terminal e inicie como superusuário:
@@ -20,7 +20,7 @@ Abra o terminal e inicie como superusuário:
 sudo su
 ````
 
-2. Inicie o Social Engineering Toolkit (SET)
+### 2. **Inicie o Social Engineering Toolkit (SET)**
 Execute o comando abaixo para iniciar o SET Toolkit:
 ````
 setoolkit
@@ -61,7 +61,7 @@ Identifique o IP do servidor local utilizando o comando:
 ifconfig
 ````
 
-## Considerações Importantes
+## Considerações Importantes 🚨
 
 ###  **Ambiente Controlado:**
 
